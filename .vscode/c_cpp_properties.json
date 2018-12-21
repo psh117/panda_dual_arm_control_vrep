@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/eigen3",
+                "include",
+                "~/vrep/programming/include",
+                "~/vrep/programming/remoteApi"
+            ],
+            "defines": [
+                "DOF=7",
+                "NON_MATLAB_PARSING",
+                "MAX_EXT_API_CONNECTIONS=255"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64",
+            "intelliSenseEngineFallback": "Disabled"
+        }
+    ],
+    "version": 4
+}

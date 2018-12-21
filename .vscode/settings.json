@@ -1,0 +1,11 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "dense": "cpp",
+        "iomanip": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "ostream": "cpp"
+    }
+}
